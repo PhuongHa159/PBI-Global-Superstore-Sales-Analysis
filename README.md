@@ -15,13 +15,13 @@ The dataset contains global sales information for a company called Superstore, a
 **5W1H**
 | 5W1H |  |
 | --- | --- |
-| Ai sẽ là người xem Dashboard này? | 1. Các nhà quản lý sản phẩm của công ty<br>2. Các Senior Manager |
-| Nếu chỉ chọn 1 key Stakeholder thì đó sẽ là ai? | Các nhà quản lý cấp cao |
-| Dashboard này giải quyết vấn đề gì? | Giúp phác họa bức tranh về tình hình kinh doanh của công ty để đưa ra các chiến lược mở rộng thị trường và quyết định lựa chọn sản phầm chiến lược |
-| Dùng 1 câu để mô tả vấn đề | Định hướng sản phẩm chiến lược và thị trường tiềm năng để phát triển |
-| Stakeholder sẽ xem Dashboard này khi nào và ở đâu? | 1. Các nhà quản lý sản phẩm sẽ xem dashboard khi họ cần review lại các sản phẩm đã tung ra thị trường và khi họ muốn tạo ra một sản phẩm mới<br>2. Các Senior Manager  sẽ xem dashboard khi họ cần đánh giá các hiệu quả kinh doanh của công ty,đưa ra các quyết định về chiến lược mở rộng thị trường và quyết định sản phẩm chiến lược trong các buổi họp thảo luận |
-| Tại sao các stakeholder cần Dasboard này? | 1. Đánh giá tổng thể tình hình kinh doanh của công ty tại các khu vực<br>2. Tìm ra sản phẩm chiến lược cho công ty<br>3. Xác định các khu vực tiềm năng để mở rộng thị trường |
-| Stakeholder đã làm như thế nào để đạt được mục tiêu | 1. Nắm được tình hình bán hàng, trả hàng, tốc độ tăng trưởng của các thị trường --> Chọn được thị trường tiềm năng --> Biết được thị trường nào cần cải thiện (Từ đó có kế hoạch tìm hiểu nguyên nhân và đưa ra giải pháp cải thiện)<br>2. Nắm được tình hình bán hàng, trả hàng, tốc độ tăng trưởng theo danh mục sản phẩm --> Chọn được sản phẩm chiến lược |
+| Who will view this dashboard? | The company's product managers and senior managers. |
+| If only one key stakeholder is to be selected, who will it be? | Senior managers. |
+| What issue does this dashboard address? | It provides a snapshot of the company's business situation, helping to develop market expansion strategies and decide on strategic products. |
+| Use one sentence to describe the issue: | Defining strategic products and identifying potential markets for growth. |
+| When and where will stakeholders view this dashboard? | Product managers will view it when they need to review the products launched on the market and when they want to create a new product.<br>Senior managers will view it when they need to assess the company's business performance, make decisions on market expansion strategies, and select strategic products in discussion meetings. |
+| Why do stakeholders need this dashboard? | To assess the overall business situation in different regions<br>To identify strategic products for the company<br>To identify potential areas for market expansion. |
+| How have stakeholders achieved their goals? | Product managers: By understanding the sales, returns, and growth rates in various markets to select potential markets and identify areas that need improvement<br>Senior managers: By assessing sales, returns, and growth rates by product category to select strategic products. |
 
 **EMPATHY MAP and STAKEHOLDER JOURNEY**
 
