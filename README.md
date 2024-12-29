@@ -11,8 +11,9 @@ The dataset contains global sales information for a company called Superstore, a
 
 ## III. Design Thinking Steps
 
-### 1. Stage 1: Empathize
+### Stage 1: Empathize
 **5W1H**
+
     | Ai sẽ là người xem Dashboard này? |  | Dashboard này giải quyết vấn đề gì? |  | Stakeholder sẽ xem Dashboard này khi nào và ở đâu? |  | Tại sao các stakeholder cần Dasboard này? |  | Stakeholder đã làm như thế nào để đạt được mục tiêu |  |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     | 1. Các nhà quản lý sản phẩm của công ty 2. Các Senior Manager |  | Giúp phác họa bức tranh về tình hình kinh doanh của công ty để đưa ra các chiến lược mở rộng thị trường và quyết định lựa chọn sản phầm chiến lược |  | 1. Các nhà quản lý sản phẩm sẽ xem dashboard khi họ cần review lại các sản phẩm đã tung ra thị trường và khi họ muốn tạo ra một sản phẩm mới 2. Các Senior Manager  sẽ xem dashboard khi họ cần đánh giá các hiệu quả kinh doanh của công ty,đưa ra các quyết định về chiến lược mở rộng thị trường và quyết định sản phẩm chiến lược trong các buổi họp thảo luận |  | 1. Đánh giá tổng thể tình hình kinh doanh của công ty tại các khu vực 2. Tìm ra sản phẩm chiến lược cho công ty 3. Xác định các khu vực tiềm năng để mở rộng thị trường |  |  1. Nắm được tình hình bán hàng, trả hàng, tốc độ tăng trưởng của các thị trường
@@ -25,7 +26,7 @@ The dataset contains global sales information for a company called Superstore, a
     | Nếu chỉ chọn 1 key Stakeholder thì đó sẽ là ai? |  | Dùng 1 câu để mô tả vấn đề |  |  |  |  |  |  |  |
     | Các nhà quản lý cấp cao |  | Định hướng sản phẩm chiến lược và thị trường tiềm năng để phát triển |  |  |  |  |  |  |  |
 
-** EMPATHY MAP and STAKEHOLDER JOURNEY **
+**EMPATHY MAP and STAKEHOLDER JOURNEY**
 
 | Thinking and feelingWhat does the stakeholder think and feel? |  |SeeingWhat does the stakeholder see? |  | Saying and doingWhat does the stakeholder say?|  |
 | --- | --- | --- | --- | --- | --- |
