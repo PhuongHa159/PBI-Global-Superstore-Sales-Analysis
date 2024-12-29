@@ -25,57 +25,73 @@ The dataset contains global sales information for a company called Superstore, a
 
 **EMPATHY MAP and STAKEHOLDER JOURNEY**
 
-| Thinking and feelingWhat does the stakeholder think and feel? |  |SeeingWhat does the stakeholder see? |  | Saying and doingWhat does the stakeholder say?|  |
-| --- | --- | --- | --- | --- | --- |
-| - Công ty đang vận hành tốt, mình muốn công ty phát triển hơn nữa, trước mắt là đạt mục tiêu doanh thu năm nay. |  | - Công ty đang vận hành tốt trên quy mô toàn cầu.- Mục tiêu doanh thu của năm nay đề ra cao hơn năm trước. |  | - Mình tin rằng việc mở rộng thị trường mới có thể giúp công ty đạt mục tiêu doanh thu.- Để tăng doanh thu, mình cũng nên xem lại tình hình ở các thị trường hiện tại xem có gì cần cải thiện không? |  |
-| Pains What are the biggest problems and challenges? |  | Gains What are the opportunities and benefits? |  |  |  |
-| - Đâu là thị trường tiềm năng để mở rộng?- Có cần cải thiện các thị trường hiện tại không?- Đâu là sản phẩm tiềm năng để tập trung cho thị trường mới/cũ? |  | Nhận biết được các sản phẩm nào có tiềm năng, thị trường nào đang phát triển => điều chỉnh chiến lược tập trung vào các cơ hội sinh lời cao => tăng doanh thu và mở rộng thị phần hiệu quả
-Xác định được doanh thu và xu hướng thị trường sẽ giúp dự đoán trước được những rủi ro và điều chỉnh chiến lược kịp thời |  |  |  |
-|  |  |  |  | **STAKEHOLDER JOURNEY** |  |
-| **Step 1:** |  | **Step 2:** |  | **Step 3:** | **Step 4:** |
-| Dựa vào mục tiêu tăng doanh thu, senior manager sẽ có 2 hướng giải pháp:- Cải thiện thị trường hiện tại- Phát triển thị trường mới |  | Để có được cơ sở đưa ra lựa chọn, senior manager cung cấp cho team DA các dữ liệu bán hàng/hoàn hàng/sales person trong lịch sử và order team DA phân tích và trực quan hóa |  | Sau khi đã có được bản draft dashboard, senior manager check xem DB đã trả lời được câu hỏi, giải quyết được vấn đề chưa? Có thêm ý tưởng nào cần đào sâu không? Có cần cải thiện gì ở DB không? | Sử dụng bản DB hoàn thiện để đánh giá tình hình, đưa ra quyết định và chiến lược |
+| EMPATHY MAP |  |
+| --- | --- |
+| Thinking and feeling<br>What does the stakeholder think and feel? | The company is running well, but I want it to grow even more, with the goal of achieving this year's revenue target first. |
+| Seeing<br>What does the stakeholder see? | The company is performing well on a global scale<br>This year's revenue target is set higher than last year. |
+| Saying and doing<br>What does the stakeholder say? | "I believe expanding into new markets can help the company achieve its revenue target."<br>"To increase revenue, I should also review the current markets to see if there's anything that needs improvement." |
+| Pains<br>What are the biggest problems and challenges? | Which markets are potential for expansion?<br>Do we need to improve the current markets?<br>Which products should we focus on for new or existing markets? |
+| Gains<br>What are the opportunities and benefits? | Identifying potential products and growing markets => Adjusting strategy to focus on high-profit opportunities => Increasing revenue and effectively expanding market share<br>Determining revenue and market trends will help predict risks and adjust strategy in a timely manner. |
+
+| STAKEHOLDER JOURNEY |  |
+| --- | --- |
+| Step 1: | Based on the goal of increasing revenue, the senior manager will have two solution approaches:<br>Improve current markets<br>Develop new markets |
+| Step 2: | To make an informed decision, the senior manager provides the DA team with historical data on sales/returns/salespersons, and the order team analyzes and visualizes it. |
+| Step 3: | After obtaining the draft dashboard, the senior manager checks if the dashboard answers the questions and solves the issues.<br>Are there any additional ideas that need to be explored?<br>Does anything need improvement in the dashboard? |
+| Step 4: | Use the finalized dashboard to assess the situation, make decisions, and develop strategies.<br>This outline highlights the steps the senior manager takes in utilizing data and a dashboard for decision-making and strategy development. |
 
 ### Stage 2: Define POV
 
 | NORTHSTAR  |  |
 | --- | --- |
-| What VALUE you want to measure? | Lợi nhuận của từng sản phẩm và từng thị trường |
-| WHEN the value DELIVERY SUCCESS? | Khi sản phẩm được giao thành công và không bị trả lại |
+| What VALUE you want to measure? | The profit of each product and each market |
+| WHEN the value DELIVERY SUCCESS? | When the product is successfully delivered and not returned |
 | Northstar Metric Name | Profit |
-| WHY do you choose this metric? | Lợi nhuận thể hiện tình hình kinh doanh của công ty. Sản phẩm và thị trường mang lợi nhuận càng cao thì càng tiềm năng để phát triển. |
+| WHY do you choose this metric? | Profit reflects the company's business situation. Products and markets with higher profit are more potential for development |
 
-| Define Point of View |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Dimension Data Group | Group 1 | Group 2 | Group 3 | Group 4 |
-|  | Tình hình kinh doanh qua từng năm | Product | Market | Customer Info |
-|  | Sales, profit, order, return rate | Category, Sub Category | State, Market, Region | Customer ID, Customer name, Segment |
-|  |  |  |  |  |
-| View | Description |  | Why |  |
-| Product | Dữ liệu về sản phẩm |  | Cung cấp góc nhìn về doanh thu sản phẩm |  |
-|  |  |  |  |  |
-| Tình hình kinh doanh | Dữ liệu tổng quát về doanh thu, lợi nhuận theo từng năm |  | Cung cấp góc nhìn về tình hình kinh doanh của công ty |  |
+**Define Point of View**
+
+| Dimension Data Group |   |    | 
+| --- | --- |--- |
+| Group 1  | Business performance year by year  | Product<br>Market<br>Customer Info |
+| Group 2 | Product | Category<br>Sub Category |
+| Group 3 | Market | State<br>Market<br>Region |
+| Group 4 | Customer Info | Customer ID<br>Customer name<br>Segment |
+
+| View | Description |  Why | 
+| --- | --- |--- |
+| Product | Product Data | Provides insights into product revenue |
+| Market |  Market Data | Provides insights into market revenue |
+| TBusiness Performance | Overall data on revenue and profit by year | Provides insights into the company's business performance |
 
 ### Stage 3: Ideate
 **BRAINSTORMING**
-                  | BRAINSTORMING               |
-| --- | --- | --- | --- | --- |
-| Overview layer | **Metric 1** | **Metric 2** | **Metric 3** | **Metric 4** |
-|  | Revenue | Profit | Profit Margin | YoY Growth Rate |
-|  | **Metric 5** | **Metric 6** | **Metric 7** | **Metric 8** |
-|  | Number of customers | Return Rate |  |  |
-| **Idea Name** | **Layer 0 dimension: chỉ số tổng** | **Layer 1 dimension: chỉ số được breakdown theo 1 chiều** | **Layer 2 dimension: chỉ số được breakdown theo 2 chiều** | **Có điều gì quan trọng mình bỏ lỡ không?** |
-| View 1: OVERVIEW | 1. Total Revenue2. Total Profit | Total revenue and Total cost by category and market |   |   |
-| View 2: Product | 1. Total Revenue2. Total Profit | 1. Revenue by product category2. Profit  by product category3. Product Classification:- High vol, High profit- High vol, Low profit- Low vol, High profit- Low vol, Low profit4. Profit margin by product category5. Return rate by product category6. YoY Growth Rate of Revenue by product category | 1. Revenue, profit by category, by year |  |
-| View 3: Market | 1. Total Revenue2. Total Profit3. Total Number of Customer | 1. Revenue by market2. Profit by market3. Profit Margin by market4. Customer number by market5. Return Rate by market6. YoY Growth Rate of Revenue by market | 1. Revenue, profit by market, by category |  |
+| BRAINSTORMING |  |
+| --- | --- |
+| Overview layer | |
+|**Metric 1** | Revenue |
+|**Metric 2** | Profit |
+|**Metric 3** | Profit Margin |
+|**Metric 4** | Return Rate |
+|  |  | |
+| **Idea Name** | **Layer 0 dimension: chỉ số tổng** | **Layer 1 dimension: chỉ số được breakdown theo 1 chiều** | **Layer 2 dimension: chỉ số được breakdown theo 2 chiều** |
+| View 1: OVERVIEW | 1. Total Revenue<br>2. Total Profit | Total revenue and Total cost by category and market |   |   |
+| View 2: Product | 1. Total Revenue<br>2. Total Profit | 1. Revenue by product category<br>2. Profit  by product category<br>3. Product Classification:- High vol, High profit- High vol, Low profit- Low vol, High profit- Low vol, Low profit<br>4. Profit margin by product category<br>5. Return rate by product category| 1. Revenue, profit by category, by year |  |
+| View 3: Market | 1. Total Revenue<br>2. Total Profit3. Total Number of Customer | 1. Revenue by market<br>2. Profit by market<br>3. Profit Margin by market<br>4. Customer number by market<br>5. Return Rate by market | 1. Revenue, profit by market, by category |  |
 
 **STRUCTURE IDEA**
 
-| STRUCTURE IDEA |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | **Metric 1** | **Metric 2** | **Metric 3** | **Metric 4** | **Metric 5** | **Metric 6** |  |
-| **Scorecard** | **Revenue** | **Number of customers** | **Profit** | **Profit Margin** |  |  |  |
-| **Idea Name** | **Thông tin rất quan trọng** |  |  | **Thông tin quan trọng** |  |  | **Thông tin chi tiết** |
-| View 1 | 1. Revenue by market2. Profit by market3. Profit Margin by market4. Customer number by market5. Return Rate by market6. YoY Growth Rate of Revenue by market |  |  | 1. Total Revenue2. Total Profit3. Total Number of Customer |  |  | 1. Revenue, profit by market, by category2. Market details |
+| Scorecard ||
+| --- | --- |
+| **Metric 1** | Revenue|
+|**Metric 2** | Number of customers|
+|**Metric 3** | Profit|
+|**Metric 4** | Profit Margin|
+|  |  |  |
+| **Idea Name** | **Thông tin rất quan trọng** | **Thông tin quan trọng** | **Thông tin chi tiết** |
+| View 1 | 1. Total revenue<br>2. Total number of orders | 1. Revenue and profit margin<br>2. Return rate| 1. Total revenue by customer, category, and market<br>2.Total number of orders over the years<br>3. Revenue and profit margin by category and market |
+| View 2 | 1. Revenue by product category<br>2. Profit by product category <br>3.Product Classification<br>4. Profit margin by product category<br>5. Return rate by product category | 1. Total Revenue<br>2. Total Profit| 1. Revenue, profit by category, by year |
+| View 3 | 1. Revenue by market<br>2. Profit by <br>. Profit Margin by market<br>4. Customer number by market<br>5. Return Rate by market | 1. Total Revenue<br>2. Total Profit<br>3. Total Number of Customer | 1. Revenue, profit by market, by category<br>2. Market details |
 
 **#### Next, I proceeded with **Step 4 - Prototype and Review** multiple times and achieved the final result, which will be presented in the following section as a dashboard.**
 
