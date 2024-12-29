@@ -13,27 +13,21 @@ The dataset contains global sales information for a company called Superstore, a
 
 ### Stage 1: Empathize
 **5W1H**
-
-    | Ai sẽ là người xem Dashboard này? |  | Dashboard này giải quyết vấn đề gì? |  | Stakeholder sẽ xem Dashboard này khi nào và ở đâu? |  | Tại sao các stakeholder cần Dasboard này? |  | Stakeholder đã làm như thế nào để đạt được mục tiêu |  |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-    | 1. Các nhà quản lý sản phẩm của công ty 2. Các Senior Manager |  | Giúp phác họa bức tranh về tình hình kinh doanh của công ty để đưa ra các chiến lược mở rộng thị trường và quyết định lựa chọn sản phầm chiến lược |  | 1. Các nhà quản lý sản phẩm sẽ xem dashboard khi họ cần review lại các sản phẩm đã tung ra thị trường và khi họ muốn tạo ra một sản phẩm mới 2. Các Senior Manager  sẽ xem dashboard khi họ cần đánh giá các hiệu quả kinh doanh của công ty,đưa ra các quyết định về chiến lược mở rộng thị trường và quyết định sản phẩm chiến lược trong các buổi họp thảo luận |  | 1. Đánh giá tổng thể tình hình kinh doanh của công ty tại các khu vực 2. Tìm ra sản phẩm chiến lược cho công ty 3. Xác định các khu vực tiềm năng để mở rộng thị trường |  |  1. Nắm được tình hình bán hàng, trả hàng, tốc độ tăng trưởng của các thị trường
-     --> Chọn được thị trường tiềm năng
-     --> Biết được thị trường nào cần cải thiện (Từ đó có kế hoạch tìm hiểu nguyên nhân và đưa ra giải pháp cải thiện) 
-     
-     2. Nắm được tình hình bán hàng, trả hàng, tốc độ tăng trưởng theo danh mục sản phẩm
-     --> Chọn được sản phẩm chiến lược
-      |  |
-    | Nếu chỉ chọn 1 key Stakeholder thì đó sẽ là ai? |  | Dùng 1 câu để mô tả vấn đề |  |  |  |  |  |  |  |
-    | Các nhà quản lý cấp cao |  | Định hướng sản phẩm chiến lược và thị trường tiềm năng để phát triển |  |  |  |  |  |  |  |
+| Ai sẽ là người xem Dashboard này? | 1. Các nhà quản lý sản phẩm của công ty 2. Các Senior Manager |
+| --- | --- |
+| Nếu chỉ chọn 1 key Stakeholder thì đó sẽ là ai? | Các nhà quản lý cấp cao |
+| Dashboard này giải quyết vấn đề gì? | Giúp phác họa bức tranh về tình hình kinh doanh của công ty để đưa ra các chiến lược mở rộng thị trường và quyết định lựa chọn sản phầm chiến lược |
+| Dùng 1 câu để mô tả vấn đề | Định hướng sản phẩm chiến lược và thị trường tiềm năng để phát triển |
+| Stakeholder sẽ xem Dashboard này khi nào và ở đâu? | 1. Các nhà quản lý sản phẩm sẽ xem dashboard khi họ cần review lại các sản phẩm đã tung ra thị trường và khi họ muốn tạo ra một sản phẩm mới 2. Các Senior Manager  sẽ xem dashboard khi họ cần đánh giá các hiệu quả kinh doanh của công ty,đưa ra các quyết định về chiến lược mở rộng thị trường và quyết định sản phẩm chiến lược trong các buổi họp thảo luận |
+| Tại sao các stakeholder cần Dasboard này? | 1. Đánh giá tổng thể tình hình kinh doanh của công ty tại các khu vực 2. Tìm ra sản phẩm chiến lược cho công ty 3. Xác định các khu vực tiềm năng để mở rộng thị trường |
+| Stakeholder đã làm như thế nào để đạt được mục tiêu | 1. Nắm được tình hình bán hàng, trả hàng, tốc độ tăng trưởng của các thị trường --> Chọn được thị trường tiềm năng --> Biết được thị trường nào cần cải thiện (Từ đó có kế hoạch tìm hiểu nguyên nhân và đưa ra giải pháp cải thiện) 2. Nắm được tình hình bán hàng, trả hàng, tốc độ tăng trưởng theo danh mục sản phẩm --> Chọn được sản phẩm chiến lược |
 
 **EMPATHY MAP and STAKEHOLDER JOURNEY**
 
 | Thinking and feelingWhat does the stakeholder think and feel? |  |SeeingWhat does the stakeholder see? |  | Saying and doingWhat does the stakeholder say?|  |
 | --- | --- | --- | --- | --- | --- |
 | - Công ty đang vận hành tốt, mình muốn công ty phát triển hơn nữa, trước mắt là đạt mục tiêu doanh thu năm nay. |  | - Công ty đang vận hành tốt trên quy mô toàn cầu.- Mục tiêu doanh thu của năm nay đề ra cao hơn năm trước. |  | - Mình tin rằng việc mở rộng thị trường mới có thể giúp công ty đạt mục tiêu doanh thu.- Để tăng doanh thu, mình cũng nên xem lại tình hình ở các thị trường hiện tại xem có gì cần cải thiện không? |  |
-| Pains
-What are the biggest problems and challenges? |  | Gains
-What are the opportunities and benefits? |  |  |  |
+| Pains What are the biggest problems and challenges? |  | Gains What are the opportunities and benefits? |  |  |  |
 | - Đâu là thị trường tiềm năng để mở rộng?- Có cần cải thiện các thị trường hiện tại không?- Đâu là sản phẩm tiềm năng để tập trung cho thị trường mới/cũ? |  | Nhận biết được các sản phẩm nào có tiềm năng, thị trường nào đang phát triển => điều chỉnh chiến lược tập trung vào các cơ hội sinh lời cao => tăng doanh thu và mở rộng thị phần hiệu quả
 Xác định được doanh thu và xu hướng thị trường sẽ giúp dự đoán trước được những rủi ro và điều chỉnh chiến lược kịp thời |  |  |  |
 |  |  |  |  | **STAKEHOLDER JOURNEY** |  |
@@ -62,7 +56,7 @@ Xác định được doanh thu và xu hướng thị trường sẽ giúp dự 
 
 ### Stage 3: Ideate
 **BRAINSTORMING**
-| BRAINSTORMING               |
+                  | BRAINSTORMING               |
 | --- | --- | --- | --- | --- |
 | Overview layer | **Metric 1** | **Metric 2** | **Metric 3** | **Metric 4** |
 |  | Revenue | Profit | Profit Margin | YoY Growth Rate |
@@ -74,7 +68,8 @@ Xác định được doanh thu và xu hướng thị trường sẽ giúp dự 
 | View 3: Market | 1. Total Revenue2. Total Profit3. Total Number of Customer | 1. Revenue by market2. Profit by market3. Profit Margin by market4. Customer number by market5. Return Rate by market6. YoY Growth Rate of Revenue by market | 1. Revenue, profit by market, by category |  |
 
 **STRUCTURE IDEA**
-| **STRUCTURE IDEA**                            |
+
+| STRUCTURE IDEA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | **Metric 1** | **Metric 2** | **Metric 3** | **Metric 4** | **Metric 5** | **Metric 6** |  |
 | **Scorecard** | **Revenue** | **Number of customers** | **Profit** | **Profit Margin** |  |  |  |
@@ -87,7 +82,7 @@ Xác định được doanh thu và xu hướng thị trường sẽ giúp dự 
 
 Model View
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0f517d83-56aa-46c0-a1bb-d3e95419a78a/a68d4568-3b50-4598-9a94-e52c6b4ecc91/image.png)
+<img width="506" alt="model" src="https://github.com/user-attachments/assets/744fa171-d648-4c20-a922-6d59c79508e6" />
 
 1. Overview
 
