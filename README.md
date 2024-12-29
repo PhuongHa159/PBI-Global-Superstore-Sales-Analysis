@@ -66,29 +66,29 @@ The dataset contains global sales information for a company called Superstore, a
 
 ### Stage 3: Ideate
 **BRAINSTORMING**
-| BRAINSTORMING |  |
-| --- | --- |
+| BRAINSTORMING |  |||
+| --- | --- | --- | --- |
 | Overview layer | |
 |**Metric 1** | Revenue |
 |**Metric 2** | Profit |
 |**Metric 3** | Profit Margin |
 |**Metric 4** | Return Rate |
 |  |  | |
-| **Idea Name** | **Layer 0 dimension: chỉ số tổng** | **Layer 1 dimension: chỉ số được breakdown theo 1 chiều** | **Layer 2 dimension: chỉ số được breakdown theo 2 chiều** |
+| **Idea Name** | **Layer 0 dimension** | **Layer 1 dimension** | **Layer 2 dimension** |
 | View 1: OVERVIEW | 1. Total Revenue<br>2. Total Profit | Total revenue and Total cost by category and market |   |   |
 | View 2: Product | 1. Total Revenue<br>2. Total Profit | 1. Revenue by product category<br>2. Profit  by product category<br>3. Product Classification:- High vol, High profit- High vol, Low profit- Low vol, High profit- Low vol, Low profit<br>4. Profit margin by product category<br>5. Return rate by product category| 1. Revenue, profit by category, by year |  |
 | View 3: Market | 1. Total Revenue<br>2. Total Profit3. Total Number of Customer | 1. Revenue by market<br>2. Profit by market<br>3. Profit Margin by market<br>4. Customer number by market<br>5. Return Rate by market | 1. Revenue, profit by market, by category |  |
 
 **STRUCTURE IDEA**
 
-| Scorecard ||
-| --- | --- |
+| Scorecard ||||
+| --- | --- | --- | --- |
 | **Metric 1** | Revenue|
 |**Metric 2** | Number of customers|
 |**Metric 3** | Profit|
 |**Metric 4** | Profit Margin|
 |  |  |  |
-| **Idea Name** | **Thông tin rất quan trọng** | **Thông tin quan trọng** | **Thông tin chi tiết** |
+| **Idea Name** | **Very Important Information** | **Important Information** | **Detailed Information** |
 | View 1 | 1. Total revenue<br>2. Total number of orders | 1. Revenue and profit margin<br>2. Return rate| 1. Total revenue by customer, category, and market<br>2.Total number of orders over the years<br>3. Revenue and profit margin by category and market |
 | View 2 | 1. Revenue by product category<br>2. Profit by product category <br>3.Product Classification<br>4. Profit margin by product category<br>5. Return rate by product category | 1. Total Revenue<br>2. Total Profit| 1. Revenue, profit by category, by year |
 | View 3 | 1. Revenue by market<br>2. Profit by <br>. Profit Margin by market<br>4. Customer number by market<br>5. Return Rate by market | 1. Total Revenue<br>2. Total Profit<br>3. Total Number of Customer | 1. Revenue, profit by market, by category<br>2. Market details |
