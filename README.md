@@ -15,7 +15,7 @@ The dataset contains global sales information for a company called Superstore, a
 **5W1H**
 | 5W1H |  |
 | --- | --- |
-| Ai sẽ là người xem Dashboard này? | -1. Các nhà quản lý sản phẩm của công ty -2. Các Senior Manager |
+| Ai sẽ là người xem Dashboard này? | -1. Các nhà quản lý sản phẩm của công ty<br>2. Các Senior Manager |
 | Nếu chỉ chọn 1 key Stakeholder thì đó sẽ là ai? | Các nhà quản lý cấp cao |
 | Dashboard này giải quyết vấn đề gì? | Giúp phác họa bức tranh về tình hình kinh doanh của công ty để đưa ra các chiến lược mở rộng thị trường và quyết định lựa chọn sản phầm chiến lược |
 | Dùng 1 câu để mô tả vấn đề | Định hướng sản phẩm chiến lược và thị trường tiềm năng để phát triển |
