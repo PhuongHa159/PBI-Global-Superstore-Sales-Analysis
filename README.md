@@ -12,8 +12,7 @@ The dataset contains global sales information for a company called Superstore, a
 ## III. Design Thinking Steps
 
 ### 1. Stage 1: Empathize
-    **5W1H**
-    
+**5W1H**
     | Ai sẽ là người xem Dashboard này? |  | Dashboard này giải quyết vấn đề gì? |  | Stakeholder sẽ xem Dashboard này khi nào và ở đâu? |  | Tại sao các stakeholder cần Dasboard này? |  | Stakeholder đã làm như thế nào để đạt được mục tiêu |  |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     | 1. Các nhà quản lý sản phẩm của công ty 2. Các Senior Manager |  | Giúp phác họa bức tranh về tình hình kinh doanh của công ty để đưa ra các chiến lược mở rộng thị trường và quyết định lựa chọn sản phầm chiến lược |  | 1. Các nhà quản lý sản phẩm sẽ xem dashboard khi họ cần review lại các sản phẩm đã tung ra thị trường và khi họ muốn tạo ra một sản phẩm mới 2. Các Senior Manager  sẽ xem dashboard khi họ cần đánh giá các hiệu quả kinh doanh của công ty,đưa ra các quyết định về chiến lược mở rộng thị trường và quyết định sản phẩm chiến lược trong các buổi họp thảo luận |  | 1. Đánh giá tổng thể tình hình kinh doanh của công ty tại các khu vực 2. Tìm ra sản phẩm chiến lược cho công ty 3. Xác định các khu vực tiềm năng để mở rộng thị trường |  |  1. Nắm được tình hình bán hàng, trả hàng, tốc độ tăng trưởng của các thị trường
@@ -62,7 +61,7 @@ Xác định được doanh thu và xu hướng thị trường sẽ giúp dự 
 
 ### Stage 3: Ideate
 **BRAINSTORMING**
-| BRAINSTORMING |  |  |  |  |
+| BRAINSTORMING               |
 | --- | --- | --- | --- | --- |
 | Overview layer | **Metric 1** | **Metric 2** | **Metric 3** | **Metric 4** |
 |  | Revenue | Profit | Profit Margin | YoY Growth Rate |
@@ -72,8 +71,9 @@ Xác định được doanh thu và xu hướng thị trường sẽ giúp dự 
 | View 1: OVERVIEW | 1. Total Revenue2. Total Profit | Total revenue and Total cost by category and market |   |   |
 | View 2: Product | 1. Total Revenue2. Total Profit | 1. Revenue by product category2. Profit  by product category3. Product Classification:- High vol, High profit- High vol, Low profit- Low vol, High profit- Low vol, Low profit4. Profit margin by product category5. Return rate by product category6. YoY Growth Rate of Revenue by product category | 1. Revenue, profit by category, by year |  |
 | View 3: Market | 1. Total Revenue2. Total Profit3. Total Number of Customer | 1. Revenue by market2. Profit by market3. Profit Margin by market4. Customer number by market5. Return Rate by market6. YoY Growth Rate of Revenue by market | 1. Revenue, profit by market, by category |  |
+
 **STRUCTURE IDEA**
-| **STRUCTURE IDEA** |  |  |  |  |  |  |  |
+| **STRUCTURE IDEA**                            |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | **Metric 1** | **Metric 2** | **Metric 3** | **Metric 4** | **Metric 5** | **Metric 6** |  |
 | **Scorecard** | **Revenue** | **Number of customers** | **Profit** | **Profit Margin** |  |  |  |
@@ -104,9 +104,7 @@ Model View
 
 **OVERVIEW**
 - Sales and Profit have shown consistent growth over the years. By 2014, both metrics had doubled compared to 2011. However, the return on sales (ROS) experienced a downward trend between 2013 and 2014, decreasing by 0.58%.
-
 - The Consumer segment accounts for the largest share of revenue, reaching $6.51M (approximately 50%).
-
 - The refund rate has been declining over the years, dropping from 6.1% in 2011 to 5.72% in 2014, a reduction of 0.38%.
 
 **PRODUCT**
@@ -120,24 +118,24 @@ Model View
 - **APAC** is the most profitable market for the company, showing particularly strong growth between 2012 and 2014. Among APAC countries, **India** contributes the most, accounting for nearly one-third of the region's total profit at $125,492. Total profit from APAC reaches $389,324, approximately 29% of the company's global profit ($1,349,557).
 
 ## V. Recommendation
-**1. Focus on increasing overall profitability:**
+- **1. Focus on increasing overall profitability:**
     - Optimize the supply chain to reduce operational costs.
     - Conduct cost-benefit analyses to identify and eliminate products or services that provide low value.
-**2. Develop sales and marketing strategies for Paper products:**
+- **2. Develop sales and marketing strategies for Paper products:**
     - Strengthen marketing campaigns targeting key distribution channels and primary customers.
     - Launch promotional programs or discounts to stimulate demand.
     - Introduce bundled packages that combine Paper with related items to increase order value.
-**3. Reduce costs and optimize Tables products:**
+- **3. Reduce costs and optimize Tables products:**
     - Reassess the product pricing strategy.
     - Seek alternative suppliers offering lower-cost materials while maintaining quality.
-**4. Improve the Canon ImageCLASS2000 product to minimize return risks:**
+- **4. Improve the Canon ImageCLASS2000 product to minimize return risks:**
     - Collect customer feedback to identify the main causes of returns.
     - Enhance product quality based on feedback or provide more detailed usage instructions.
     - Offer warranty policies or quick technical support to reduce return rates.
-**5. Develop strategies to unlock the potential of the Canadian market:**
+- **5. Develop strategies to unlock the potential of the Canadian market:**
     - Invest in promotional campaigns focused on raising brand awareness in Canada.
     - Partner with local distributors to increase customer reach.
     - Establish warehousing or distribution centers in Canada to lower shipping costs.
-**6. Continue strong investment in the APAC market, especially in India:**
+- **6. Continue strong investment in the APAC market, especially in India:**
     - Expand distribution networks in untapped areas of India.
     - Strengthen strategic partnerships with local retailers.
