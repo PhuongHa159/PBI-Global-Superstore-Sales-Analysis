@@ -14,13 +14,13 @@ The dataset contains global sales information for a company called Superstore, a
 ### Stage 1: Empathize
 **5W1H**
 
-<img width="895" alt="Image" src="https://github.com/user-attachments/assets/a05d4e44-dda4-4d8e-a6dd-b70b91615ea6" />
+<img width="915" alt="Image" src="https://github.com/user-attachments/assets/2a72faf2-8a04-49b2-a3e4-5ba0fd522df0" />
 
 **EMPATHY MAP and STAKEHOLDER JOURNEY**
 
-<img width="478" alt="Image" src="https://github.com/user-attachments/assets/3c7f2c44-1f7a-467c-8e98-bf0ba8da4b64" />
+<img width="632" alt="image" src="https://github.com/user-attachments/assets/dbacdc74-8d3e-4ade-b231-112db8b6052c" />
 
-<img width="686" alt="Image" src="https://github.com/user-attachments/assets/6cd1cb43-8579-4009-9449-b271436616a6" />
+<img width="701" alt="image" src="https://github.com/user-attachments/assets/07d1b370-8057-4d45-8a18-9189f6ecaff4" />
 
 
 ### Stage 2: Define POV
