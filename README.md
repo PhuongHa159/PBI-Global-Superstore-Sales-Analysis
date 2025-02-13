@@ -24,59 +24,37 @@ The dataset contains global sales information for a company called Superstore, a
 
 
 ### Stage 2: Define POV
+
 **Northstar Metric**
-| NORTHSTAR  |  |
-| --- | --- |
-| What VALUE you want to measure? | The profit of each product and each market |
-| WHEN the value DELIVERY SUCCESS? | When the product is successfully delivered and not returned |
-| Northstar Metric Name | Profit |
-| WHY do you choose this metric? | Profit reflects the company's business situation. Products and markets with higher profit are more potential for development |
+
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/0af43c5c-35d0-4674-b4ce-bd520b99ee80" />
+
 
 **Define Point of View**
 
-| Dimension Data Group |   |    | 
-| --- | --- |--- |
-| Group 1  | Business performance year by year  | Product<br>Market<br>Customer Info |
-| Group 2 | Product | Category<br>Sub Category |
-| Group 3 | Market | State<br>Market<br>Region |
-| Group 4 | Customer Info | Customer ID<br>Customer name<br>Segment |
+<img width="745" alt="image" src="https://github.com/user-attachments/assets/0940fc3f-f7db-430d-a57d-80a7fd9a2ccd" />
 
-| View | Description |  Why | 
-| --- | --- |--- |
-| Product | Product Data | Provides insights into product revenue |
-| Market |  Market Data | Provides insights into market revenue |
-| TBusiness Performance | Overall data on revenue and profit by year | Provides insights into the company's business performance |
+
+<img width="747" alt="image" src="https://github.com/user-attachments/assets/3ddb3fc9-378f-4f79-9935-b6610273572b" />
+
 
 ### Stage 3: Ideate
 
 **BRAINSTORMING**
-| Overview layer | |
-| --- | --- |
-|**Metric 1** | Revenue |
-|**Metric 2** | Profit |
-|**Metric 3** | Profit Margin |
-|**Metric 4** | Return Rate |
 
-| **Idea Name** | **Layer 0 dimension** | **Layer 1 dimension** | **Layer 2 dimension** |
-| --- | --- | --- | --- |
-| View 1: OVERVIEW | 1. Total Revenue<br>2. Total Profit | Total revenue and Total cost by category and market |   |   |
-| View 2: Product | 1. Total Revenue<br>2. Total Profit | 1. Revenue by product category<br>2. Profit  by product category<br>3. Product Classification:- High vol, High profit- High vol, Low profit- Low vol, High profit- Low vol, Low profit<br>4. Profit margin by product category<br>5. Return rate by product category| 1. Revenue, profit by category, by year |  |
-| View 3: Market | 1. Total Revenue<br>2. Total Profit3. Total Number of Customer | 1. Revenue by market<br>2. Profit by market<br>3. Profit Margin by market<br>4. Customer number by market<br>5. Return Rate by market | 1. Revenue, profit by market, by category |  |
+<img width="721" alt="image" src="https://github.com/user-attachments/assets/60c20c95-f609-4403-8108-18549f77eb7c" />
+
+
+<img width="668" alt="image" src="https://github.com/user-attachments/assets/a77108a2-90a7-4ac9-8738-ae617e70bea8" />
+
 
 **STRUCTURE IDEA**
 
-| Scorecard ||
-| --- | --- |
-| Metric 1 | Revenue|
-|**Metric 2 | Number of customers|
-|Metric 3 | Profit|
-|Metric 4 | Profit Margin|
+<img width="608" alt="image" src="https://github.com/user-attachments/assets/46ca854f-e4b5-4fca-acfe-3e220ef14ea9" />
 
-| Idea Name | Very Important Information | Important Information | Detailed Information |
-| --- | --- | --- | --- |
-| View 1 | 1. Total revenue<br>2. Total number of orders | 1. Revenue and profit margin<br>2. Return rate| 1. Total revenue by customer, category, and market<br>2.Total number of orders over the years<br>3. Revenue and profit margin by category and market |
-| View 2 | 1. Revenue by product category<br>2. Profit by product category <br>3.Product Classification<br>4. Profit margin by product category<br>5. Return rate by product category | 1. Total Revenue<br>2. Total Profit| 1. Revenue, profit by category, by year |
-| View 3 | 1. Revenue by market<br>2. Profit by <br>. Profit Margin by market<br>4. Customer number by market<br>5. Return Rate by market | 1. Total Revenue<br>2. Total Profit<br>3. Total Number of Customer | 1. Revenue, profit by market, by category<br>2. Market details |
+
+<img width="751" alt="image" src="https://github.com/user-attachments/assets/b901242e-ef64-4e27-bd05-3e2b799846c6" />
+
 
 **Next, I proceeded with **Step 4 - Prototype and Review** multiple times and achieved the final result, which will be presented in the following section as a dashboard.**
 
