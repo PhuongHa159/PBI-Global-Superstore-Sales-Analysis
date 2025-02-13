@@ -15,22 +15,13 @@ The dataset contains global sales information for a company called Superstore, a
 **5W1H**
 
 <img width="895" alt="Image" src="https://github.com/user-attachments/assets/a05d4e44-dda4-4d8e-a6dd-b70b91615ea6" />
+
 **EMPATHY MAP and STAKEHOLDER JOURNEY**
 
-| EMPATHY MAP |  |
-| --- | --- |
-| Thinking and feeling<br>What does the stakeholder think and feel? | The company is running well, but I want it to grow even more, with the goal of achieving this year's revenue target first. |
-| Seeing<br>What does the stakeholder see? | The company is performing well on a global scale<br>This year's revenue target is set higher than last year. |
-| Saying and doing<br>What does the stakeholder say? | "I believe expanding into new markets can help the company achieve its revenue target."<br>"To increase revenue, I should also review the current markets to see if there's anything that needs improvement." |
-| Pains<br>What are the biggest problems and challenges? | Which markets are potential for expansion?<br>Do we need to improve the current markets?<br>Which products should we focus on for new or existing markets? |
-| Gains<br>What are the opportunities and benefits? | Identifying potential products and growing markets => Adjusting strategy to focus on high-profit opportunities => Increasing revenue and effectively expanding market share<br>Determining revenue and market trends will help predict risks and adjust strategy in a timely manner. |
+<img width="478" alt="Image" src="https://github.com/user-attachments/assets/3c7f2c44-1f7a-467c-8e98-bf0ba8da4b64" />
 
-| STAKEHOLDER JOURNEY |  |
-| --- | --- |
-| Step 1: | Based on the goal of increasing revenue, the senior manager will have two solution approaches:<br>Improve current markets<br>Develop new markets |
-| Step 2: | To make an informed decision, the senior manager provides the DA team with historical data on sales/returns/salespersons, and the order team analyzes and visualizes it. |
-| Step 3: | After obtaining the draft dashboard, the senior manager checks if the dashboard answers the questions and solves the issues.<br>Are there any additional ideas that need to be explored?<br>Does anything need improvement in the dashboard? |
-| Step 4: | Use the finalized dashboard to assess the situation, make decisions, and develop strategies.<br>This outline highlights the steps the senior manager takes in utilizing data and a dashboard for decision-making and strategy development. |
+<img width="686" alt="Image" src="https://github.com/user-attachments/assets/6cd1cb43-8579-4009-9449-b271436616a6" />
+
 
 ### Stage 2: Define POV
 **Northstar Metric**
