@@ -13,16 +13,7 @@ The dataset contains global sales information for a company called Superstore, a
 
 ### Stage 1: Empathize
 **5W1H**
-| 5W1H |  |
-| --- | --- |
-| Who will view this dashboard? | The company's product managers and senior managers. |
-| If only one key stakeholder is to be selected, who will it be? | Senior managers. |
-| What issue does this dashboard address? | It provides a snapshot of the company's business situation, helping to develop market expansion strategies and decide on strategic products. |
-| Use one sentence to describe the issue: | Defining strategic products and identifying potential markets for growth. |
-| When and where will stakeholders view this dashboard? | Product managers will view it when they need to review the products launched on the market and when they want to create a new product.<br>Senior managers will view it when they need to assess the company's business performance, make decisions on market expansion strategies, and select strategic products in discussion meetings. |
-| Why do stakeholders need this dashboard? | To assess the overall business situation in different regions<br>To identify strategic products for the company<br>To identify potential areas for market expansion. |
-| How have stakeholders achieved their goals? | Product managers: By understanding the sales, returns, and growth rates in various markets to select potential markets and identify areas that need improvement<br>Senior managers: By assessing sales, returns, and growth rates by product category to select strategic products. |
-
+<img width="895" alt="Image" src="https://github.com/user-attachments/assets/a05d4e44-dda4-4d8e-a6dd-b70b91615ea6" />
 **EMPATHY MAP and STAKEHOLDER JOURNEY**
 
 | EMPATHY MAP |  |
