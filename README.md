@@ -13,6 +13,7 @@ The dataset contains global sales information for a company called Superstore, a
 
 ### Stage 1: Empathize
 **5W1H**
+
 <img width="895" alt="Image" src="https://github.com/user-attachments/assets/a05d4e44-dda4-4d8e-a6dd-b70b91615ea6" />
 **EMPATHY MAP and STAKEHOLDER JOURNEY**
 
