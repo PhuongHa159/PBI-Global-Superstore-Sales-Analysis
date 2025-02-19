@@ -62,19 +62,20 @@ The dataset contains global sales information for a company called Superstore, a
 
 **Model View**
 
-<img width="506" alt="model" src="https://github.com/user-attachments/assets/744fa171-d648-4c20-a922-6d59c79508e6" />
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/f48cd095-96a1-4c6e-b01d-9a6ca52c647d" />
+
 
 **1. Overview**
 
-<img width="574" alt="overview" src="https://github.com/user-attachments/assets/186cab23-3af3-4dbb-b24d-4eed7803103b" />
+<img width="591" alt="image" src="https://github.com/user-attachments/assets/d2ea47c2-7243-4b78-8169-9ad394c22f95" />
 
 **2. Product**
 
-<img width="574" alt="Product" src="https://github.com/user-attachments/assets/68917d7b-f108-491c-916c-39b7fe2ada3a" />
+<img width="589" alt="image" src="https://github.com/user-attachments/assets/55c10ac4-f0b7-41e8-98ff-32182ff1a75c" />
 
 **3. Market**
 
-<img width="574" alt="market" src="https://github.com/user-attachments/assets/e9f9d3ca-917d-466e-95f4-688d2f7d1879" />
+<img width="591" alt="image" src="https://github.com/user-attachments/assets/229efdd9-89a9-4e3a-9c59-0cd1e74d0b4a" />
 
 ## IV. Insight
 
