@@ -67,7 +67,7 @@ The dataset contains global sales information for a company called Superstore, a
 
 **1. Overview**
 
-<img width="591" alt="image" src="https://github.com/user-attachments/assets/d2ea47c2-7243-4b78-8169-9ad394c22f95" />
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/ca9f7864-f262-4481-9f06-5232fbfce814" />
 
 **2. Product**
 
@@ -75,7 +75,7 @@ The dataset contains global sales information for a company called Superstore, a
 
 **3. Market**
 
-<img width="591" alt="image" src="https://github.com/user-attachments/assets/229efdd9-89a9-4e3a-9c59-0cd1e74d0b4a" />
+<img width="592" alt="image" src="https://github.com/user-attachments/assets/eeaf5b9a-1bbf-499c-9c40-39818083b1f2" />
 
 ## IV. Insight
 
