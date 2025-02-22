@@ -66,35 +66,30 @@ The dataset contains global sales information for a company called Superstore, a
 
 
 **1. Overview**
-
-<img width="590" alt="image" src="https://github.com/user-attachments/assets/ca9f7864-f262-4481-9f06-5232fbfce814" />
+<img width="641" alt="image" src="https://github.com/user-attachments/assets/ffac9396-626f-409c-a3b4-371ccac657e3" />
+**Insight:**
+- Sales and Profit have grown steadily, doubling from 2011 to 2014. However, ROS declined slightly from 11.95% in 2013 to 11.37% in 2014.
+- The Consumer segment leads in revenue ($6.51M, ~50%), while Home Office is the most profitable per unit ($11.99). The return rate decreased from 6.1% (2011) to 5.72% (2014), with Corporate having the highest rate (6.29%).
+- Standard Class shipping dominates (60%), while high-value products like Cisco TelePresence ($23K AOV) drive premium sales. Despite strong growth, cost control and return management remain key areas for improvement.
 
 **2. Product**
+<img width="633" alt="image" src="https://github.com/user-attachments/assets/79c7e2cc-762f-4bf1-9560-bb16fe4c9bd8" />
 
-<img width="592" alt="image" src="https://github.com/user-attachments/assets/f020648b-e492-448e-bd40-fce8a60b3014" />
+**Insight:**
+- Sales and Profit continue to grow, reaching $1.5M profit in 2014, with Office Supplies contributing the most (60.78%). However, Furniture and Technology have higher return rates (~20%), affecting profitability.
+- The top profitable products include Canon ($18K), Motorola ($17K), and Cisco ($16K), while Canon, Samsung, and Hoover lead in lost profit due to returns. Copiers generate the highest profit ($260K), whereas Tables show a loss (-$60K).
+- The return rate dropped from 6.1% (2011) to 5.72% (2014), suggesting quality improvements. Paper, Labels, and Envelopes have the highest ROS (~24%), indicating strong profitability in these subcategories.
+- Despite growth, reducing returns in high-value categories and addressing losses in low-performing subcategories remain key areas for improvement.
 
 **3. Market**
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/195c1685-6527-43ef-b6fb-5bf016804f69" />
 
-<img width="588" alt="image" src="https://github.com/user-attachments/assets/c342c2c6-893d-4928-923f-a86730dc8d6c" />
-
-## IV. Insight
-
-**OVERVIEW**
-- Sales and Profit have shown consistent growth over the years. By 2014, both metrics had doubled compared to 2011. However, the return on sales (ROS) experienced a downward trend between 2013 and 2014, decreasing by 0.58%.
-- The Consumer segment accounts for the largest share of revenue, reaching $6.51M (approximately 50%).
-- The refund rate has been declining over the years, dropping from 6.1% in 2011 to 5.72% in 2014, a reduction of 0.38%.
-
-**PRODUCT**
-- **Home Supplies** accounts for the largest proportion of product volume, at 61.01%.
-- **Paper** has the highest ROS, reaching 26.29%, but its order volume is only average, with 3.8K orders over 4 years.
-- **Tables** are currently unprofitable, with a total loss of $31K over 4 years.
-- **Canon ImageCLASS2000** is the most profitable product during 2013–2014, generating $9.0K in profit. However, it also has a high return volume, amounting to $6.7K.
-
-**MARKET**
-- **Canada** has the highest ROS (26.62%), but its revenue and order volume remain unimpressive, with revenue at $66.93K and only 833 orders.
-- **APAC** is the most profitable market for the company, showing particularly strong growth between 2012 and 2014. Among APAC countries, **India** contributes the most, accounting for nearly one-third of the region's total profit at $125,492. Total profit from APAC reaches $389,324, approximately 29% of the company's global profit ($1,349,557).
-
-## V. Recommendation
+**Insight:**
+- Sales reached $11.82M, with a total profit of $1.35M and an ROS of 11.41%. The U.S. led in sales ($2.12M) and profit ($263K), while LATAM contributed $205K in profit.
+- Profit growth was strongest in Canada (+170%) and Africa (+124%), while the EU and LATAM saw moderate increases (~36%). APAC and the U.S. had the lowest growth (~24%).
+- Return rates were highest in the EU (8.02%) and LATAM (8.01%), impacting overall profitability. Despite this, profit per unit remained highest in the EU ($12.69).
+- To optimize growth, expanding in high-growth markets (Canada, Africa) while reducing return rates in LATAM and the EU should be prioritized.
+## IV. Recommendation
 - **Focus on increasing overall profitability:**
     - Optimize the supply chain to reduce operational costs.
     - Conduct cost-benefit analyses to identify and eliminate products or services that provide low value.
