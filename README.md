@@ -66,14 +66,18 @@ The dataset contains global sales information for a company called Superstore, a
 
 
 **1. Overview**
+
 <img width="641" alt="image" src="https://github.com/user-attachments/assets/ffac9396-626f-409c-a3b4-371ccac657e3" />
+
 **Insight:**
 - Sales and Profit have grown steadily, doubling from 2011 to 2014. However, ROS declined slightly from 11.95% in 2013 to 11.37% in 2014.
 - The Consumer segment leads in revenue ($6.51M, ~50%), while Home Office is the most profitable per unit ($11.99). The return rate decreased from 6.1% (2011) to 5.72% (2014), with Corporate having the highest rate (6.29%).
 - Standard Class shipping dominates (60%), while high-value products like Cisco TelePresence ($23K AOV) drive premium sales. Despite strong growth, cost control and return management remain key areas for improvement.
 
 **2. Product**
+
 <img width="633" alt="image" src="https://github.com/user-attachments/assets/79c7e2cc-762f-4bf1-9560-bb16fe4c9bd8" />
+
 
 **Insight:**
 - Sales and Profit continue to grow, reaching $1.5M profit in 2014, with Office Supplies contributing the most (60.78%). However, Furniture and Technology have higher return rates (~20%), affecting profitability.
@@ -82,7 +86,9 @@ The dataset contains global sales information for a company called Superstore, a
 - Despite growth, reducing returns in high-value categories and addressing losses in low-performing subcategories remain key areas for improvement.
 
 **3. Market**
+
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/195c1685-6527-43ef-b6fb-5bf016804f69" />
+
 
 **Insight:**
 - Sales reached $11.82M, with a total profit of $1.35M and an ROS of 11.41%. The U.S. led in sales ($2.12M) and profit ($263K), while LATAM contributed $205K in profit.
