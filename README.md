@@ -18,9 +18,9 @@ The dataset contains global sales information for a company called Superstore, a
 
 **EMPATHY MAP and STAKEHOLDER JOURNEY**
 
-<img width="632" alt="image" src="https://github.com/user-attachments/assets/dbacdc74-8d3e-4ade-b231-112db8b6052c" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/dbacdc74-8d3e-4ade-b231-112db8b6052c" />
 
-<img width="701" alt="image" src="https://github.com/user-attachments/assets/07d1b370-8057-4d45-8a18-9189f6ecaff4" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/07d1b370-8057-4d45-8a18-9189f6ecaff4" />
 
 
 ### Stage 2: Define POV
@@ -32,28 +32,28 @@ The dataset contains global sales information for a company called Superstore, a
 
 **Define Point of View**
 
-<img width="745" alt="image" src="https://github.com/user-attachments/assets/0940fc3f-f7db-430d-a57d-80a7fd9a2ccd" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/0940fc3f-f7db-430d-a57d-80a7fd9a2ccd" />
 
 
-<img width="747" alt="image" src="https://github.com/user-attachments/assets/3ddb3fc9-378f-4f79-9935-b6610273572b" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/3ddb3fc9-378f-4f79-9935-b6610273572b" />
 
 
 ### Stage 3: Ideate
 
 **BRAINSTORMING**
 
-<img width="721" alt="image" src="https://github.com/user-attachments/assets/60c20c95-f609-4403-8108-18549f77eb7c" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/60c20c95-f609-4403-8108-18549f77eb7c" />
 
 
-<img width="668" alt="image" src="https://github.com/user-attachments/assets/a77108a2-90a7-4ac9-8738-ae617e70bea8" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/a77108a2-90a7-4ac9-8738-ae617e70bea8" />
 
 
 **STRUCTURE IDEA**
 
-<img width="608" alt="image" src="https://github.com/user-attachments/assets/46ca854f-e4b5-4fca-acfe-3e220ef14ea9" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/46ca854f-e4b5-4fca-acfe-3e220ef14ea9" />
 
 
-<img width="751" alt="image" src="https://github.com/user-attachments/assets/b901242e-ef64-4e27-bd05-3e2b799846c6" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/b901242e-ef64-4e27-bd05-3e2b799846c6" />
 
 
 **Next, I proceeded with **Step 4 - Prototype and Review** multiple times and achieved the final result, which will be presented in the following section as a dashboard.**
@@ -62,7 +62,7 @@ The dataset contains global sales information for a company called Superstore, a
 
 **Model View**
 
-<img width="680" alt="image" src="https://github.com/user-attachments/assets/f48cd095-96a1-4c6e-b01d-9a6ca52c647d" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/f48cd095-96a1-4c6e-b01d-9a6ca52c647d" />
 
 
 **1. Overview**
@@ -76,7 +76,7 @@ The dataset contains global sales information for a company called Superstore, a
 
 **2. Product**
 
-<img width="633" alt="image" src="https://github.com/user-attachments/assets/79c7e2cc-762f-4bf1-9560-bb16fe4c9bd8" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/99a6fe6e-5a8d-424b-a466-9f7787ef4ab0" />
 
 
 **Insight:**
@@ -87,7 +87,7 @@ The dataset contains global sales information for a company called Superstore, a
 
 **3. Market**
 
-<img width="635" alt="image" src="https://github.com/user-attachments/assets/195c1685-6527-43ef-b6fb-5bf016804f69" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/8ad29f52-2644-480b-9969-d70a7609f13a" />
 
 
 **Insight:**
