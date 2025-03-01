@@ -67,7 +67,7 @@ The dataset contains global sales information for a company called Superstore, a
 
 **1. Overview**
 
-<img width="641" alt="image" src="https://github.com/user-attachments/assets/ffac9396-626f-409c-a3b4-371ccac657e3" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/d7aae333-f4ed-46e7-aa2d-94003cbd741d" />
 
 **Insight:**
 - Sales and Profit have grown steadily, doubling from 2011 to 2014. However, ROS declined slightly from 11.95% in 2013 to 11.37% in 2014.
